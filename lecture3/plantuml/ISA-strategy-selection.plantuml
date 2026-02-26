@@ -1,0 +1,66 @@
+'-------------------------
+' ISA-trategy-selection
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+
+start
+
+:Identify ISA hierarchy
+(superclass and subclasses);
+
+if (Need shared queries\non superclass?) then (Yes)
+  :__**Strategy A**__
+  Separate tables;
+else (No)
+  if (Disjoint **and**\nTotal?) then (Yes)
+    if (Many subclass-\nspecific attrs?) then (Yes)
+      :__**Strategy B**__
+      Subclass tables only;
+    else (No)
+      :__**Strategy C**__
+      Single table;
+    endif
+  else (No)
+    :__**Strategy A**__
+    Separate tables;
+  endif
+endif
+
+stop
+
+@enduml
+'-------------------------
+' Dark
+'-------------------------
+@startuml
+!theme blueprint
+
+start
+
+:Identify ISA hierarchy
+(superclass and subclasses);
+
+if (Need shared queries\non superclass?) then (Yes)
+  :__**Strategy A**__
+  Separate tables;
+else (No)
+  if (Disjoint **and**\nTotal?) then (Yes)
+    if (Many subclass-\nspecific attrs?) then (Yes)
+      :__**Strategy B**__
+      Subclass tables only;
+    else (No)
+      :__**Strategy C**__
+      Single table;
+    endif
+  else (No)
+    :__**Strategy A**__
+    Separate tables;
+  endif
+endif
+
+stop
+
+@enduml

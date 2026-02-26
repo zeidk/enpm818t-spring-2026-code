@@ -1,0 +1,46 @@
+'-------------------------
+' strong-entity
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PERSON {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK>>
+  --
+  * first_name : varchar
+    middle_name : varchar
+  * last_name : varchar
+  * date_of_birth : date
+  * street : varchar
+  * city : varchar
+  * state : char(2)
+  * zip : char(5)
+}
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PERSON {
+  * <color:#EECBFF><b>person_id</b></color> : int <<PK>>
+  --
+  * first_name : varchar
+    middle_name : varchar
+  * last_name : varchar
+  * date_of_birth : date
+  * street : varchar
+  * city : varchar
+  * state : char(2)
+  * zip : char(5)
+}
+@enduml

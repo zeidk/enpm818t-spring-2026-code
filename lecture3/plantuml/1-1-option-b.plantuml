@@ -1,0 +1,44 @@
+'-------------------------
+' 1-1-option-b
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#9b59b6><b>emp_id</b></color> : int <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+  .. passport (merged 1:1) ..
+  * passport_no : varchar <<UK>>
+  * expiry_date : date
+}
+
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#EECBFF><b>emp_id</b></color> : int <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+  .. passport (merged 1:1) ..
+  * passport_no : varchar <<UK>>
+  * expiry_date : date
+}
+
+@enduml

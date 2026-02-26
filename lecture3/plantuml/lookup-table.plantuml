@@ -1,0 +1,59 @@
+'-------------------------
+' lookup-table
+'-------------------------
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity ACADEMIC_RANK {
+  * <color:#9b59b6><b>rank_code</b></color> : varchar <<PK>>
+  --
+  * rank_name : varchar <<UK>>
+  * rank_order : int <<UK>>
+}
+
+entity PROFESSOR {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+  * <color:#336791><b>dept_id</b></color> : int <<FK -> DEPARTMENT>>
+  * <color:#336791><b>rank_code</b></color> : varchar <<FK -> ACADEMIC_RANK>>
+}
+
+ACADEMIC_RANK ||--|{ PROFESSOR : "has_rank"
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity ACADEMIC_RANK {
+  * <color:#EECBFF><b>rank_code</b></color> : varchar <<PK>>
+  --
+  * rank_name : varchar <<UK>>
+  * rank_order : int <<UK>>
+}
+
+entity PROFESSOR {
+  * <color:#EECBFF><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+  * <color:#E6EDF9><b>dept_id</b></color> : int <<FK -> DEPARTMENT>>
+  * <color:#E6EDF9><b>rank_code</b></color> : varchar <<FK -> ACADEMIC_RANK>>
+}
+
+ACADEMIC_RANK ||--|{ PROFESSOR : "has_rank"
+@enduml

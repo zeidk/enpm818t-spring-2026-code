@@ -1,0 +1,60 @@
+'-------------------------
+' weak-entity
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity COURSE {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * credits : int
+    level : varchar
+}
+
+entity COURSE_SECTION {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK (partial key)>>
+  --
+    semester : varchar
+    year : int
+    capacity : int
+    schedule : varchar
+}
+
+COURSE ||--|{ COURSE_SECTION : "has_section"
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity COURSE {
+  * <color:#EECBFF><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * credits : int
+    level : varchar
+}
+
+entity COURSE_SECTION {
+  * <color:#EECBFF><b>course_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#EECBFF><b>section_no</b></color> : varchar <<PK (partial key)>>
+  --
+    semester : varchar
+    year : int
+    capacity : int
+    schedule : varchar
+}
+
+COURSE ||--|{ COURSE_SECTION : "has_section"
+@enduml

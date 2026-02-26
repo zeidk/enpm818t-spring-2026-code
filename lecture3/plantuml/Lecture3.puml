@@ -1,0 +1,493 @@
+#-------------------------
+# Fig.1: Example ERD->Relational
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+entity PROFESSOR {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+  * <color:#336791><b>dept_id</b></color> : int <<FK -> DEPARTMENT>>
+}
+entity DEPARTMENT {
+  * <color:#9b59b6><b>dept_id</b></color> : int <<PK>>
+  --
+  * dept_name : varchar <<UK>>
+    building : varchar
+    budget : numeric
+}
+DEPARTMENT ||--|{ PROFESSOR : "belongs_to"
+@enduml
+#-------------------------
+# Fig.3: Mapping strong entities
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PERSON {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK>>
+  --
+  * first_name : varchar
+    middle_name : varchar
+  * last_name : varchar
+  * date_of_birth : date
+  *  street : varchar
+  *  city : varchar
+  *  state : char(2)
+  *  zip : char(5)
+}
+@enduml
+
+
+#-------------------------
+# Step2: Mapping weak entities
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity COURSE {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * credits : int
+    level : varchar
+}
+
+entity COURSE_SECTION {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK (partial key)>>
+  --
+    semester : varchar
+    year : int
+    capacity : int
+    schedule : varchar
+}
+
+COURSE ||--|{ COURSE_SECTION : "has_section"
+@enduml
+
+#-------------------------
+# Step3: 1:1 - OPTION A
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PROFESSOR {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+}
+
+entity DEPARTMENT {
+  * <color:#9b59b6><b>dept_id</b></color> : int <<PK>>
+  --
+  * dept_name : varchar <<UK>>
+    building : varchar
+    budget : numeric
+  .. chairs (1:1) ..
+  * <color:#336791><b>chair_id</b></color> : int <<FK -> PROFESSOR, UK>>
+  * start_date : date
+}
+
+PROFESSOR |o--|| DEPARTMENT : "chairs"
+@enduml
+
+#-------------------------
+# Step3: 1:1 - OPTION B
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#9b59b6><b>emp_id</b></color> : int <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+  .. passport (merged 1:1) ..
+  * passport_no : varchar <<UK>>
+  * expiry_date : date
+}
+
+@enduml
+
+#-------------------------
+# Step3: 1:1 - OPTION C - FK on EMPLOYEE
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#9b59b6><b>emp_id</b></color> : varchar <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+  .. assigned_to (1:1) ..
+    <color:#336791><b>spot_id</b></color> : varchar <<FK -> PARKING_SPOT, UK>>
+}
+
+entity PARKING_SPOT {
+  * <color:#9b59b6><b>spot_id</b></color> : varchar <<PK>>
+  --
+  * location : varchar
+}
+
+EMPLOYEE |o--o| PARKING_SPOT : "assigned_to"
+@enduml
+
+#-------------------------
+# Step3: 1:1 - OPTION C - FK on PARKING_SPOT
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#9b59b6><b>emp_id</b></color> : varchar <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+}
+
+entity PARKING_SPOT {
+  * <color:#9b59b6><b>spot_id</b></color> : varchar <<PK>>
+  --
+  * location : varchar
+  .. assigned_to (1:1) ..
+    <color:#336791><b>emp_id</b></color> : varchar <<FK -> EMPLOYEE, UK>>
+}
+
+PARKING_SPOT |o--o| EMPLOYEE : "assigned_to"
+@enduml
+
+#-------------------------
+# Step4: 1:N - Student-enrolls_in-Course_Section
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity STUDENT {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * student_id : varchar <<UK>>
+  * admission_date : date
+    gpa : numeric
+  * academic_standing : varchar
+}
+
+entity COURSE {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * credits : int
+    level : varchar
+}
+
+entity COURSE_SECTION {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK (partial key)>>
+  --
+    semester : varchar
+    year : int
+    capacity : int
+    schedule : varchar
+}
+
+entity ENROLLMENT {
+  * <color:#9b59b6><b>student_person_id</b></color> : int <<PK, FK -> STUDENT>>
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  --
+    grade : varchar
+  * enroll_date : date
+}
+
+entity STUDENT_DEGREE {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> STUDENT>>
+  * <color:#9b59b6><b>degree_type</b></color> : varchar <<PK>>
+  * <color:#9b59b6><b>institution</b></color> : varchar <<PK>>
+  --
+    year : int
+}
+
+COURSE ||--|{ COURSE_SECTION : "has_section"
+STUDENT ||--|{ ENROLLMENT : "enrolls_in"
+COURSE_SECTION ||--|{ ENROLLMENT : "enrolls_in"
+STUDENT ||--o{ STUDENT_DEGREE : "previous_degrees"
+@enduml
+#-------------------------
+# Step4: 1:N - Course-has_prerequisite-Course
+#-------------------------
+
+#-------------------------
+# Step5: M:N - Course-has_prerequisite-Course
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+entity STUDENT {
+  * <color:purple><b>person_id</b></color> : int <<PK, FK>>
+  --
+  * student_id : varchar <<UK>>
+  * academic_standing : varchar
+  * gpa : numeric
+  * admission_date : date
+}
+entity COURSE_SECTION {
+  * <color:purple><b>course_id</b></color> : varchar <<PK>>
+  * <color:purple><b>section_no</b></color> : int <<PK>>
+  --
+  * semester : varchar
+  * year : int
+  * classroom : varchar
+  * schedule : varchar
+}
+entity ENROLLMENT {
+  * <color:purple><b>student_person_id</b></color> : int <<PK, FK>>
+  * <color:purple><b>course_id</b></color> : varchar <<PK, FK>>
+  * <color:purple><b>section_no</b></color> : int <<PK, FK>>
+  --
+    grade : varchar
+  * enroll_date : date
+}
+STUDENT ||--{ ENROLLMENT : ""
+COURSE_SECTION ||--{ ENROLLMENT : ""
+@enduml
+
+#-------------------------
+# Step5: M:N - Student-enrolls_in-Course_Section
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+entity COURSE {
+  * <color:purple><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title: varchar
+  * level: varchar
+  * credits : int
+}
+entity COURSE_PREREQ {
+  * <color:purple><b>successor_id</b></color> : varchar <<PK, FK>>
+  * <color:purple><b>prereq_id</b></color> : varchar <<PK, FK>>
+  --
+}
+COURSE ||--o{ COURSE_PREREQ : "successor"
+COURSE ||--o{ COURSE_PREREQ : "prereq"
+@enduml
+
+#-------------------------
+# Step6
+#-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PERSON {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK>>
+  --
+  * first_name : varchar
+    middle_name : varchar
+  * last_name : varchar
+  * date_of_birth : date
+}
+
+entity PERSON_PHONE {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  * <color:#9b59b6><b>phone_number</b></color> : varchar <<PK>>
+  --
+}
+
+entity PERSON_EMAIL {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  * <color:#9b59b6><b>email_address</b></color> : varchar <<PK>>
+  --
+}
+
+entity PROFESSOR {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+}
+
+entity PROF_SPECIALIZATION {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PROFESSOR>>
+  * <color:#9b59b6><b>specialization</b></color> : varchar <<PK>>
+  --
+}
+
+entity STUDENT {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * student_id : varchar <<UK>>
+  * admission_date : date
+    gpa : numeric
+  * academic_standing : varchar
+}
+
+entity STUDENT_DEGREE {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> STUDENT>>
+  * <color:#9b59b6><b>degree_type</b></color> : varchar <<PK>>
+  * <color:#9b59b6><b>institution</b></color> : varchar <<PK>>
+  --
+    year : int
+}
+
+PERSON ||--o{ PERSON_PHONE : "phone_numbers"
+PERSON ||--o{ PERSON_EMAIL : "email_addresses"
+PROFESSOR ||--o{ PROF_SPECIALIZATION : "specializations"
+STUDENT ||--o{ STUDENT_DEGREE : "previous_degrees"
+@enduml
+
+#------
+# Step 7
+#-------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity GRAD_STUDENT {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> STUDENT>>
+  --
+    thesis_topic : varchar
+}
+
+entity PROFESSOR {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+}
+
+entity COURSE_SECTION {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK (partial key)>>
+  --
+    semester : varchar
+    year : int
+    capacity : int
+    schedule : varchar
+}
+
+entity TA_ASSIGNMENT {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  --
+  * <color:#336791><b>grad_person_id</b></color> : int <<FK -> GRAD_STUDENT>>
+  * <color:#336791><b>professor_person_id</b></color> : int <<FK -> PROFESSOR>>
+}
+
+COURSE_SECTION ||--o| TA_ASSIGNMENT : "ta_assign"
+GRAD_STUDENT ||--o{ TA_ASSIGNMENT : "assigned_as_ta"
+PROFESSOR ||--o{ TA_ASSIGNMENT : "supervises"
+@enduml
+
+#-------- Category
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PERSON {
+  * <color:#9b59b6><b>ssn</b></color> : varchar <<PK>>
+  --
+  * name : varchar
+}
+
+entity COMPANY {
+  * <color:#9b59b6><b>tax_id</b></color> : varchar <<PK>>
+  --
+  * company_name : varchar
+}
+
+entity BANK {
+  * <color:#9b59b6><b>routing_no</b></color> : varchar <<PK>>
+  --
+  * bank_name : varchar
+}
+
+entity VEHICLE_OWNER {
+  * <color:#9b59b6><b>owner_id</b></color> : int <<PK (surrogate)>>
+  --
+  * owner_type : varchar <<CHECK: person/company/bank>>
+    <color:#336791><b>person_ssn</b></color> : varchar <<FK -> PERSON>>
+    <color:#336791><b>company_tax_id</b></color> : varchar <<FK -> COMPANY>>
+    <color:#336791><b>bank_routing_no</b></color> : varchar <<FK -> BANK>>
+  * ownership_date : date
+  --
+  {CHECK: exactly one FK is NOT NULL}
+}
+
+PERSON ||--o| VEHICLE_OWNER : "owner (person)"
+COMPANY ||--o| VEHICLE_OWNER : "owner (company)"
+BANK ||--o| VEHICLE_OWNER : "owner (bank)"
+@enduml
+
+
+#-------- Lookup Tables
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity ACADEMIC_RANK {
+  * <color:#9b59b6><b>rank_code</b></color> : varchar <<PK>>
+  --
+  * rank_name : varchar <<UK>>
+  * rank_order : int <<UK>>
+}
+
+entity PROFESSOR {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+  * <color:#336791><b>dept_id</b></color> : int <<FK -> DEPARTMENT>>
+  * <color:#336791><b>rank_code</b></color> : varchar <<FK -> ACADEMIC_RANK>>
+}
+
+ACADEMIC_RANK ||--|{ PROFESSOR : "has_rank"
+@enduml

@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (1:1.4.3+202512261035+0d15f75042)"
+   sodipodi:docname="weak-entity.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.95497112"
+     inkscape:cx="1193.2298"
+     inkscape:cy="672.27164"
+     inkscape:window-width="3840"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 5.4026327,158.09441 -2.7135931,-2.71359 a 0.6643844,0.6643844 0 1 0 -0.9396968,0.93888 l 1.604092,1.60161 h -5.3348677 a 0.664385,0.664385 0 0 0 0,1.32877 h 5.3200246 l -1.5892489,1.59172 a 0.6643844,0.6643844 0 0 0 0.9396968,0.93888 l 2.7135931,-2.71359 a 0.6594386,0.6594386 0 0 0 0.1945217,-0.46985 0.10468588,0.10468588 0 0 0 0,-0.0165 0.11622606,0.11622606 0 0 0 0,-0.0165 0.66520871,0.66520871 0 0 0 -0.1945217,-0.46985 z"
+       id="path1-8"
+       style="stroke-width:0.0824299"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/weak-entity-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#030000;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="-30.400045"
+       y="170.46402"
+       id="text54"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         x="-30.400045"
+         y="170.46402"
+         style="stroke-width:0.500062">(1,1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#010000;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="-31.231955"
+       y="141.34108"
+       id="text55"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan55"
+         x="-31.231955"
+         y="141.34108"
+         style="stroke-width:0.500062">(1,N)</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path56"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="M -32.256407,145.79803 V 135.42341"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.394541;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path57"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="M -33.341365,145.90053 V 135.44104"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.384511;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path58"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -32.166642,174.28468 v -9.73833"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.382836;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path59"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -33.2516,174.28802 v -9.84816"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g75"
+       transform="matrix(0.26458333,0,0,0.26458333,10.534253,117.76814)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -196.88539,32.849078 c 0,-7.170343 -10.15697,-12.985209 -22.6867,-12.985209 -12.5336,0 -22.69057,5.814866 -22.69057,12.985209 0,7.170455 10.15697,12.985209 22.69057,12.985209 12.52973,0 22.6867,-5.814754 22.6867,-12.985209 z m 0,0"
+         id="path75"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-228.93864"
+         y="36.604298"
+         id="text574-5"><tspan
+           sodipodi:role="line"
+           id="tspan61"
+           x="-228.93864"
+           y="36.604298">title</tspan></text>
+    </g>
+    <g
+       id="g76"
+       transform="matrix(0.26458333,0,0,0.26458333,6.6079685,117.58886)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -119.75223,23.326353 c 0,-8.838802 -12.99239,-16.0067234 -29.01993,-16.0067234 -16.03248,0 -29.02487,7.1679214 -29.02487,16.0067234 0,8.838941 12.99239,16.006723 29.02487,16.006723 16.02754,0 29.01993,-7.167782 29.01993,-16.006723 z m 0,0"
+         id="path576-0"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-166.22781"
+         y="27.081573"
+         id="text576-9"><tspan
+           sodipodi:role="line"
+           id="tspan62"
+           x="-166.22781"
+           y="27.081573">credits</tspan></text>
+    </g>
+    <g
+       id="g77"
+       transform="matrix(0.26458333,0,0,0.26458333,5.5895608,130.51442)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -53.053173,-17.928283 c 0,-8.286135 -11.834017,-15.005865 -26.432576,-15.005865 -14.603059,0 -26.437081,6.71973 -26.437081,15.005865 0,8.2862659 11.834022,15.0058661 26.437081,15.0058661 14.598559,0 26.432576,-6.7196002 26.432576,-15.0058661 z m 0,0"
+         id="path74"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-91.365646"
+         y="-14.173062"
+         id="text590-6"><tspan
+           sodipodi:role="line"
+           id="tspan63"
+           x="-91.365646"
+           y="-14.173062">level</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path654-3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -20.978662,128.19683 -6.719961,2.94421"
+       inkscape:connection-start="#g77"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4a4a4a;stroke-width:0.396875;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect640-8"
+       width="21.80377"
+       height="4.4309812"
+       x="-43.657215"
+       y="131.14104"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="-38.789085"
+       y="134.36595"
+       id="text640-5"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan64"
+         x="-38.789085"
+         y="134.36595"
+         style="stroke-width:0.500062">COURSE</tspan></text>
+    <g
+       id="g81"
+       transform="matrix(0.26458333,0,0,0.26458333,2.1832357,115.90016)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.679767"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -172.70839,96.27843 c 0,-9.694217 -15.4064,-17.555638 -34.41194,-17.555638 -19.01131,0 -34.41771,7.861421 -34.41771,17.555638 0,9.69421 15.4064,17.55562 34.41771,17.55562 19.00554,0 34.41194,-7.86141 34.41194,-17.55562 z m 0,0"
+         id="path66"
+         style="stroke-width:1.5;stroke-dasharray:none" />
+      <g
+         id="g80"
+         transform="translate(-1.9481074,-2.2478272)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7c4792;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+           x="-230.25331"
+           y="99.235092"
+           id="text66"><tspan
+             sodipodi:role="line"
+             id="tspan79"
+             x="-230.25331"
+             y="99.235092">course_id</tspan></text>
+        <path
+           fill="none"
+           stroke-width="0.398"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke="#7c4792"
+           stroke-opacity="1"
+           stroke-miterlimit="10"
+           d="m -229.75012,104.73847 h 49.15002"
+           id="path67"
+           style="stroke-width:1.42875;stroke-dasharray:none" />
+      </g>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path81"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -32.755323,127.99574 -3e-6,3.1453"
+       inkscape:connection-start="#g76"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path82"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -42.905463,128.62831 5.394106,2.51273"
+       inkscape:connection-start="#g75"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path83"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -45.477243,138.49153 7.233051,-2.91951"
+       inkscape:connection-start="#g81"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g79"
+       transform="matrix(0.26458333,0,0,0.26458333,41.321831,141.11684)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.679767"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -241.53722,189.97988 c 0,-11.0237 -17.21032,-19.96326 -38.4412,-19.96326 -21.23733,0 -38.44765,8.93956 -38.44765,19.96326 0,11.02371 17.21032,19.96325 38.44765,19.96325 21.23088,0 38.4412,-8.93954 38.4412,-19.96325 z m 0,0"
+         id="path632-6"
+         style="stroke-width:1.5;stroke-dasharray:3, 1.5;stroke-dashoffset:0" />
+      <g
+         id="g78"
+         transform="translate(0,-1.7143709)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7c4792;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+           x="-308.06528"
+           y="192.74294"
+           id="text632-1"><tspan
+             sodipodi:role="line"
+             id="tspan77"
+             x="-308.06528"
+             y="192.74294">section_no</tspan></text>
+        <path
+           fill="none"
+           stroke-width="0.398"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke="#7c4792"
+           stroke-opacity="1"
+           stroke-miterlimit="10"
+           d="m -304.55166,197.56669 h 49.15002"
+           id="path633-1"
+           style="stroke-width:1.42875;stroke-dasharray:2.8575, 1.42875;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <g
+       id="g72"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.2742096,116.61322)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 12.852176,289.00451 c 0,-9.46156 -16.8953103,-17.1345 -37.73753,-17.1345 -20.84866,0 -37.74397,7.67294 -37.74397,17.1345 0,9.4617 16.89531,17.13449 37.74397,17.13449 20.8422197,0 37.73753,-7.6728 37.73753,-17.13449 z m 0,0"
+         id="path68"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-48.505836"
+         y="292.6842"
+         id="text37"><tspan
+           sodipodi:role="line"
+           id="tspan68"
+           x="-48.505836"
+           y="292.6842">semester</tspan></text>
+    </g>
+    <g
+       id="g71"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.8781772,128.59033)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -147.27546,241.08908 c 0,-9.46156 -16.89531,-17.1345 -37.73753,-17.1345 -20.84866,0 -37.74397,7.67294 -37.74397,17.1345 0,9.4617 16.89531,17.13449 37.74397,17.13449 20.84222,0 37.73753,-7.6728 37.73753,-17.13449 z m 0,0"
+         id="path38"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-206.49805"
+         y="243.78439"
+         id="text38"><tspan
+           sodipodi:role="line"
+           id="tspan70"
+           x="-206.49805"
+           y="243.78439">capacity</tspan></text>
+    </g>
+    <g
+       id="g74"
+       transform="matrix(0.26458333,0,0,0.26458333,-41.600792,113.53654)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -18.72025,203.90334 c 0,-6.2755 -11.8885,-11.3643 -26.5544,-11.3643 -14.6704,0 -26.5589,5.0888 -26.5589,11.3643 0,6.2752 11.8885,11.3641 26.5589,11.3641 14.6659,0 26.5544,-5.0889 26.5544,-11.3641 z m 0,0"
+         id="path39"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-56.355061"
+         y="205.60898"
+         id="text39"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           x="-56.355061"
+           y="205.60898">year</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4a4a4a;stroke-width:0.396875;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect67"
+       width="33.444447"
+       height="6.7074847"
+       x="-49.477547"
+       y="174.11848"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4a4a4a;stroke-width:0.396875;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect42"
+       width="30.824198"
+       height="4.3597798"
+       x="-48.167435"
+       y="175.29233"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="-45.803318"
+       y="178.2205"
+       id="text42"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan65"
+         x="-45.803318"
+         y="178.2205"
+         style="stroke-width:0.500062">COURSE_SECTION</tspan></text>
+    <g
+       id="g73"
+       transform="matrix(0.26458333,0,0,0.26458333,-44.457717,115.51441)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -29.739318,245.18442 c 0,-9.46156 -16.89531,-17.1345 -37.73753,-17.1345 -20.84866,0 -37.743972,7.67294 -37.743972,17.1345 0,9.4617 16.895312,17.13449 37.743972,17.13449 20.84222,0 37.73753,-7.6728 37.73753,-17.13449 z m 0,0"
+         id="path70"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-90.527016"
+         y="248.93964"
+         id="text71"><tspan
+           sodipodi:role="line"
+           id="tspan71"
+           x="-90.527016"
+           y="248.93964">schedule</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path84"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g71"
+       d="m -50.088166,188.66906 12.141209,-7.8431"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path85"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g73"
+       d="m -52.551658,179.42389 3.074107,-0.30307"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path86"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -48.901945,169.72937 9.152866,4.38911"
+       inkscape:connection-start="#g74"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path87"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -13.716748,189.40709 -13.688669,-8.58113"
+       inkscape:connection-start="#g72"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path88"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m -32.755325,186.1004 -10e-7,-5.27444"
+       inkscape:connection-start="#g79"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g21-5"
+       transform="matrix(0.23331711,0,0,0.23331711,6.9396502,119.88992)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <!--class COURSE-->
+      <g
+         class="entity"
+         data-qualified-name="COURSE"
+         data-source-line="6"
+         id="ent0002-9">
+        <rect
+           fill="#ffffff"
+           height="107.4844"
+           rx="2.8350184"
+           ry="2.8350184"
+           style="stroke:#000000;stroke-width:1"
+           width="203.7832"
+           x="82.050003"
+           y="12"
+           id="rect1-8" />
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="58.501999"
+           x="154.6906"
+           y="29.9951"
+           id="text1-4">COURSE</text>
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="83.050003"
+           x2="284.83319"
+           y1="38.296902"
+           y2="38.296902"
+           id="line1-8" />
+        <g
+           data-visibility-modifier="IE_MANDATORY"
+           id="g1-1">
+          <circle
+             cx="93.050003"
+             cy="51.945301"
+             fill="#ffffff"
+             style="stroke:#000000;stroke-width:1"
+             id="ellipse1-0"
+             r="3" />
+        </g>
+        <text
+           fill="#9b59b6"
+           font-family="Arial"
+           font-size="14px"
+           font-weight="bold"
+           lengthAdjust="spacing"
+           textLength="74.436501"
+           x="99.050003"
+           y="55.292"
+           id="text2-3">course_id</text>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="101.8965"
+           x="177.93671"
+           y="55.292"
+           id="text3-0">: varchar «PK»</text>
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="83.050003"
+           x2="284.83319"
+           y1="62.5938"
+           y2="62.5938"
+           id="line3-4" />
+        <g
+           data-visibility-modifier="IE_MANDATORY"
+           id="g3-4">
+          <circle
+             cx="93.050003"
+             cy="76.242203"
+             fill="#ffffff"
+             style="stroke:#000000;stroke-width:1"
+             id="ellipse3-4"
+             r="3" />
+        </g>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="94.513702"
+           x="99.050003"
+           y="79.588898"
+           id="text4-4">title : varchar</text>
+        <g
+           data-visibility-modifier="IE_MANDATORY"
+           id="g4">
+          <circle
+             cx="93.050003"
+             cy="92.539101"
+             fill="#ffffff"
+             style="stroke:#000000;stroke-width:1"
+             id="ellipse4"
+             r="3" />
+        </g>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="79.495102"
+           x="99.050003"
+           y="95.885696"
+           id="text5-7">credits : int</text>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="100.4336"
+           x="99.050003"
+           y="112.1826"
+           id="text6-6">level : varchar</text>
+      </g>
+      <!--class COURSE_SECTION-->
+      <g
+         class="entity"
+         data-qualified-name="COURSE_SECTION"
+         data-source-line="14"
+         id="ent0003">
+        <rect
+           fill="#ffffff"
+           height="140.07809"
+           rx="2.8350184"
+           ry="2.8350184"
+           style="stroke:#000000;stroke-width:1"
+           width="343.89261"
+           x="12"
+           y="179.48"
+           id="rect6" />
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="127.1826"
+           x="120.355"
+           y="197.4751"
+           id="text7-3">COURSE_SECTION</text>
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="13"
+           x2="354.89261"
+           y1="205.7769"
+           y2="205.7769"
+           id="line7" />
+        <g
+           data-visibility-modifier="IE_MANDATORY"
+           id="g7-1">
+          <circle
+             cx="23"
+             cy="219.42529"
+             fill="#ffffff"
+             style="stroke:#000000;stroke-width:1"
+             id="ellipse7-7"
+             r="3" />
+        </g>
+        <text
+           fill="#9b59b6"
+           font-family="Arial"
+           font-size="14px"
+           font-weight="bold"
+           lengthAdjust="spacing"
+           textLength="74.436501"
+           x="29"
+           y="222.772"
+           id="text8-5">course_id</text>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="242.00591"
+           x="107.8867"
+           y="222.772"
+           id="text9-9">: varchar &lt;&lt;PK, FK -&gt; COURSE&gt;&gt;</text>
+        <g
+           data-visibility-modifier="IE_MANDATORY"
+           id="g9-6">
+          <circle
+             cx="23"
+             cy="235.7222"
+             fill="#ffffff"
+             style="stroke:#000000;stroke-width:1"
+             id="ellipse9-2"
+             r="3" />
+        </g>
+        <text
+           fill="#9b59b6"
+           font-family="Arial"
+           font-size="14px"
+           font-weight="bold"
+           lengthAdjust="spacing"
+           textLength="83.788101"
+           x="29"
+           y="239.06889"
+           id="text10-1">section_no</text>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="191.7959"
+           x="117.2383"
+           y="239.06889"
+           id="text11-7">: varchar «PK (partial key)»</text>
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="13"
+           x2="354.89261"
+           y1="246.37061"
+           y2="246.37061"
+           id="line11" />
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="132.45309"
+           x="18"
+           y="263.36569"
+           id="text12">semester : varchar</text>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="63.102501"
+           x="18"
+           y="279.6626"
+           id="text13">year : int</text>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="90.972702"
+           x="18"
+           y="295.9595"
+           id="text14">capacity : int</text>
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="14px"
+           lengthAdjust="spacing"
+           textLength="129.8828"
+           x="18"
+           y="312.25641"
+           id="text15">schedule : varchar</text>
+      </g>
+      <!--link COURSE to COURSE_SECTION-->
+      <g
+         class="link"
+         data-entity-1="ent0002"
+         data-entity-2="ent0003"
+         data-link-type="crowfoot"
+         data-source-line="24"
+         id="lnk4">
+        <path
+           codeLine="24"
+           d="m 183.95,127.89 c 0,18.53 0,23.53 0,43.16"
+           fill="none"
+           id="COURSE-COURSE_SECTION"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="179.95"
+           x2="187.95"
+           y1="123.89"
+           y2="123.89"
+           id="line15" />
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="179.95"
+           x2="187.95"
+           y1="126.89"
+           y2="126.89"
+           id="line16" />
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="183.95"
+           x2="183.95"
+           y1="127.89"
+           y2="119.89"
+           id="line17" />
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="183.95"
+           x2="189.95"
+           y1="171.05"
+           y2="179.05"
+           id="line18" />
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="183.95"
+           x2="177.95"
+           y1="171.05"
+           y2="179.05"
+           id="line19" />
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="183.95"
+           x2="183.95"
+           y1="171.05"
+           y2="179.05"
+           id="line20" />
+        <line
+           style="stroke:#000000;stroke-width:1"
+           x1="187.95"
+           x2="179.95"
+           y1="169.05"
+           y2="169.05"
+           id="line21" />
+        <text
+           fill="#000000"
+           font-family="Arial"
+           font-size="13px"
+           lengthAdjust="spacing"
+           textLength="76.298798"
+           x="106.95"
+           y="145.5369"
+           id="text21">has_section</text>
+      </g>
+<?plantuml-src fP5HIyCm58NV-okkyqN5iYU5bH2GiO4CDd7wNDBqIiBIf2ItWxBwtusbq6x8Ndmz9_auvzmRKbWXLCwwHEaIGMel3IRXe6qjlAZ0Q8lKrWZEat8JeyGlqHXQEqjR4HalNWkJ96X9KmlBtUVxVWMd1E01c7J6-UnsKJmjYcVE2YvTumFckcJpWhDvxtF8u2YyLC83OsyRpkFdDEq9aMbmz7jDUYmrXQXgIr41C7X4CtdrVH4dtw-M7w-xxRzYFS9w0oaVa7t8lr019MbdS-kkiE0kRabnDpXWUpyM1WZnB87GdtK6Q57uIM4fQY5_-urIa0hBvcoiECDmZgvBq-vqkKO6CoL2FYIU_G00?>    </g>
+    <g
+       id="g61"
+       transform="matrix(0.26458333,0,0,0.26458333,52.003086,104.4411)"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-light.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         fill-rule="nonzero"
+         fill="#fdeeec"
+         fill-opacity="1"
+         stroke-width="0.535699"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#e74c3c"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -248.65054,192.02968 -71.69161,-35.75107 -71.70066,35.75107 71.70066,35.75108 z m 0,0"
+         id="path695"
+         style="stroke-width:1.96431;stroke-dasharray:none" />
+      <path
+         fill-rule="nonzero"
+         fill="#fdeeec"
+         fill-opacity="1"
+         stroke-width="0.535699"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#e74c3c"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m -259.1372,192.02967 -61.20562,-30.52193 -61.21336,30.52193 61.21336,30.52195 z m 0,0"
+         id="path60"
+         style="stroke-width:1.677;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#b93d30;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="-358.24274"
+         y="194.85782"
+         id="text696"><tspan
+           sodipodi:role="line"
+           id="tspan60"
+           x="-358.24274"
+           y="194.85782">HAS_SECTION</tspan></text>
+    </g>
+    <path
+       d="m 216.27367,160.81374 -2.71359,-2.71359 a 0.6643844,0.6643844 0 1 0 -0.9397,0.93887 l 1.60409,1.60161 h -5.33487 a 0.664385,0.664385 0 0 0 0,1.32877 h 5.32003 l -1.58925,1.59172 a 0.6643844,0.6643844 0 0 0 0.9397,0.93888 l 2.71359,-2.71359 a 0.6594386,0.6594386 0 0 0 0.19452,-0.46985 0.10468588,0.10468588 0 0 0 0,-0.0165 0.11622606,0.11622606 0 0 0 0,-0.0165 0.66520871,0.66520871 0 0 0 -0.19452,-0.46985 z"
+       id="path1-8-8"
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:0.0824299"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/weak-entity-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="167.2077"
+       y="173.18332"
+       id="text54-5"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan54-7"
+         x="167.2077"
+         y="173.18332"
+         style="stroke-width:0.500062">(1,1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="166.37579"
+       y="144.06036"
+       id="text55-4"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan55-1"
+         x="166.37579"
+         y="144.06036"
+         style="stroke-width:0.500062">(1,N)</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path56-8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="M 165.35133,148.51732 V 138.14271"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.394541;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path57-5"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="M 164.26638,148.61982 V 138.16033"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.384511;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path58-9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 165.4411,177.00398 v -9.73833"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.382836;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path59-7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 164.35615,177.00731 v -9.84816"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14732"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 603.77856,375.30624 c 0,-7.17034 -10.15697,-12.98521 -22.6867,-12.98521 -12.5336,0 -22.69057,5.81487 -22.69057,12.98521 0,7.17045 10.15697,12.98521 22.69057,12.98521 12.52973,0 22.6867,-5.81476 22.6867,-12.98521 z m 0,0"
+         id="path75-3"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="571.7403"
+         y="379.06146"
+         id="text574-5-8"><tspan
+           sodipodi:role="line"
+           id="tspan61-8"
+           x="571.7403"
+           y="379.06146">title</tspan></text>
+    </g>
+    <g
+       id="g14727"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 666.07222,365.10591 c 0,-8.8388 -12.99239,-16.00672 -29.01993,-16.00672 -16.03248,0 -29.02487,7.16792 -29.02487,16.00672 0,8.83894 12.99239,16.00673 29.02487,16.00673 16.02754,0 29.01993,-7.16779 29.01993,-16.00673 z m 0,0"
+         id="path576-0-1"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="619.59662"
+         y="368.86115"
+         id="text576-9-8"><tspan
+           sodipodi:role="line"
+           id="tspan62-9"
+           x="619.59662"
+           y="368.86115">credits</tspan></text>
+    </g>
+    <g
+       id="g14722"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 728.92221,372.70378 c 0,-8.28614 -11.83402,-15.00587 -26.43258,-15.00587 -14.60306,0 -26.43708,6.71973 -26.43708,15.00587 0,8.28626 11.83402,15.00586 26.43708,15.00586 14.59856,0 26.43258,-6.7196 26.43258,-15.00586 z m 0,0"
+         id="path74-4"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="690.60974"
+         y="376.45898"
+         id="text590-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan63-3"
+           x="690.60974"
+           y="376.45898">level</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path654-3-3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 176.62909,130.91613 -6.71997,2.94421"
+       inkscape:connection-start="#g14722"
+       inkscape:connection-end="#g14737"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14737"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect640-8-8"
+         width="82.407951"
+         height="16.747015"
+         x="595.84583"
+         y="393.0004" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="614.24506"
+         y="405.189"
+         id="text640-5-6"><tspan
+           sodipodi:role="line"
+           id="tspan64-0"
+           x="614.24506"
+           y="405.189">COURSE</tspan></text>
+    </g>
+    <g
+       id="g14743"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.679767"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 596.39269,431.67547 c 0,-9.69422 -15.4064,-17.55564 -34.41194,-17.55564 -19.01131,0 -34.41771,7.86142 -34.41771,17.55564 0,9.69421 15.4064,17.55562 34.41771,17.55562 19.00554,0 34.41194,-7.86141 34.41194,-17.55562 z m 0,0"
+         id="path66-8"
+         style="fill:#091f41;fill-opacity:1;stroke:#fec8d8;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fec8d8;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="536.89966"
+         y="432.38431"
+         id="text66-8"><tspan
+           sodipodi:role="line"
+           id="tspan79-9"
+           x="536.89966"
+           y="432.38431">course_id</tspan></text>
+      <path
+         fill="none"
+         stroke-width="0.398"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#7c4792"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 537.40285,437.88768 h 49.15002"
+         id="path67-7"
+         style="stroke:#fec8d8;stroke-width:1.42875;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path81-7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 164.85242,130.71504 0,3.1453"
+       inkscape:connection-start="#g14727"
+       inkscape:connection-end="#g14737"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path82-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 154.70228,131.34762 5.39411,2.51272"
+       inkscape:connection-start="#g14732"
+       inkscape:connection-end="#g14737"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path83-4"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 152.13051,141.21082 7.23304,-2.9195"
+       inkscape:connection-start="#g14743"
+       inkscape:connection-end="#g14737"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       fill-rule="nonzero"
+       fill="#f5eff8"
+       fill-opacity="1"
+       stroke-width="0.679767"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke="#9b59b6"
+       stroke-opacity="1"
+       stroke-miterlimit="10"
+       d="m 175.02285,194.10165 c 0,-2.91669 -4.55355,-5.28195 -10.1709,-5.28195 -5.61906,0 -10.17262,2.36526 -10.17262,5.28195 0,2.91669 4.55356,5.28194 10.17262,5.28194 5.61735,0 10.1709,-2.36525 10.1709,-5.28194 z m 0,0"
+       id="path632-6-0"
+       style="fill:#091f41;fill-opacity:1;stroke:#fec8d8;stroke-width:0.396875;stroke-dasharray:0.79375, 0.396875;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fec8d8;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="157.42062"
+       y="194.37912"
+       id="text632-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan77-9"
+         x="157.42062"
+         y="194.37912"
+         style="stroke-width:0.500062">section_no</tspan></text>
+    <path
+       fill="none"
+       stroke-width="0.398"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke="#7c4792"
+       stroke-opacity="1"
+       stroke-miterlimit="10"
+       d="m 158.35027,195.6554 h 13.00429"
+       id="path633-1-2"
+       style="stroke:#fec8d8;stroke-width:0.378023;stroke-dasharray:0.756047, 0.378023;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g14770"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 768.88575,627.09661 c 0,-9.46156 -16.89531,-17.1345 -37.73753,-17.1345 -20.84866,0 -37.74397,7.67294 -37.74397,17.1345 0,9.4617 16.89531,17.13449 37.74397,17.13449 20.84222,0 37.73753,-7.6728 37.73753,-17.13449 z m 0,0"
+         id="path68-4"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="707.52771"
+         y="630.77631"
+         id="text37-0"><tspan
+           sodipodi:role="line"
+           id="tspan68-5"
+           x="707.52771"
+           y="630.77631">semester</tspan></text>
+    </g>
+    <path
+       fill-rule="nonzero"
+       fill="#f5eff8"
+       fill-opacity="1"
+       stroke-width="0.404278"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke="#9b59b6"
+       stroke-opacity="1"
+       stroke-miterlimit="10"
+       d="m 151.76294,195.09778 c 0,-2.50337 -4.47022,-4.53351 -9.98472,-4.53351 -5.51622,0 -9.98643,2.03014 -9.98643,4.53351 0,2.50341 4.47021,4.5335 9.98643,4.5335 5.5145,0 9.98472,-2.0301 9.98472,-4.5335 z m 0,0"
+       id="path38-4"
+       style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:0.396875;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="136.09364"
+       y="195.81091"
+       id="text38-6"><tspan
+         sodipodi:role="line"
+         id="tspan70-9"
+         x="136.09364"
+         y="195.81091"
+         style="stroke-width:0.500062">capacity</tspan></text>
+    <g
+       id="g14754"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 584.89789,530.36702 c 0,-6.2755 -11.8885,-11.3643 -26.5544,-11.3643 -14.6704,0 -26.5589,5.0888 -26.5589,11.3643 0,6.2752 11.8885,11.3641 26.5589,11.3641 14.6659,0 26.5544,-5.0889 26.5544,-11.3641 z m 0,0"
+         id="path39-2"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="547.26306"
+         y="532.07263"
+         id="text39-4"><tspan
+           sodipodi:role="line"
+           id="tspan69-7"
+           x="547.26306"
+           y="532.07263">year</tspan></text>
+    </g>
+    <g
+       id="g14765"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect67-7"
+         width="126.40421"
+         height="25.351124"
+         x="573.84772"
+         y="555.43481" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect42-5"
+         width="116.50091"
+         height="16.477909"
+         x="578.79932"
+         y="559.8714" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="587.73456"
+         y="570.93848"
+         id="text42-4"><tspan
+           sodipodi:role="line"
+           id="tspan65-8"
+           x="587.73456"
+           y="570.93848">COURSE_SECTION</tspan></text>
+    </g>
+    <g
+       id="g14759"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7003391,29.87899)">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 563.08099,579.12351 c 0,-9.46156 -16.89531,-17.1345 -37.73753,-17.1345 -20.84866,0 -37.74397,7.67294 -37.74397,17.1345 0,9.4617 16.89531,17.13449 37.74397,17.13449 20.84222,0 37.73753,-7.6728 37.73753,-17.13449 z m 0,0"
+         id="path70-2"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:1.89;stroke-linecap:square;stroke-dasharray:none"
+         x="502.29327"
+         y="582.87872"
+         id="text71-8"><tspan
+           sodipodi:role="line"
+           id="tspan71-9"
+           x="502.29327"
+           y="582.87872">schedule</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path84-3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 147.51958,191.38836 12.14121,-7.84309"
+       inkscape:connection-end="#g14765"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path85-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 145.05609,182.14319 3.07411,-0.30307"
+       inkscape:connection-start="#g14759"
+       inkscape:connection-end="#g14765"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path86-8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 148.16132,172.63686 7.14177,4.20092"
+       inkscape:connection-start="#g14754"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path87-0"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 183.891,192.1264 -13.68867,-8.58113"
+       inkscape:connection-start="#g14770"
+       inkscape:connection-end="#g14765"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path88-2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 164.85243,188.8197 0,-5.27443"
+       inkscape:connection-end="#g14765"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       fill-rule="nonzero"
+       fill="#fdeeec"
+       fill-opacity="1"
+       stroke-width="0.535699"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke="#e74c3c"
+       stroke-opacity="1"
+       stroke-miterlimit="10"
+       d="m 183.82205,157.96825 -18.96843,-9.45914 -18.97078,9.45914 18.97078,9.45914 z m 0,0"
+       id="path695-8"
+       style="fill:none;stroke:#f89880;stroke-width:0.519724;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       fill-rule="nonzero"
+       fill="#fdeeec"
+       fill-opacity="1"
+       stroke-width="0.535699"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke="#e74c3c"
+       stroke-opacity="1"
+       stroke-miterlimit="10"
+       d="m 181.04744,157.96825 -16.19398,-8.0756 -16.19604,8.0756 16.19604,8.0756 z m 0,0"
+       id="path60-0"
+       style="fill:#fdeeec;fill-opacity:1;stroke:#f89880;stroke-width:0.443706;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="154.82578"
+       y="158.71652"
+       id="text696-5"><tspan
+         sodipodi:role="line"
+         id="tspan60-6"
+         x="154.82578"
+         y="158.71652"
+         style="stroke-width:0.500062">HAS_SECTION</tspan></text>
+    <rect
+       fill="#003153"
+       height="28.43858"
+       rx="0.66145831"
+       ry="0.66145831"
+       style="fill:none;stroke:#d9d3d0;stroke-width:0.264583"
+       width="54.18222"
+       x="243.42764"
+       y="120.60094"
+       id="rect14111" />
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="58.501999"
+       x="155.1906"
+       y="29.9951"
+       id="text14113"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">COURSE</text>
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="243.69223"
+       x2="297.34528"
+       y1="127.55865"
+       y2="127.55865"
+       id="line14115" />
+    <g
+       data-visibility-modifier="IE_MANDATORY"
+       id="g14119"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">
+      <circle
+         cx="93.050003"
+         cy="51.945301"
+         fill="#003153"
+         style="stroke:#d9d3d0;stroke-width:1"
+         id="ellipse14117"
+         r="3" />
+    </g>
+    <text
+       fill="#eecbff"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="74.436501"
+       x="100.05"
+       y="55.292"
+       id="text14121"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">course_id</text>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="101.8965"
+       x="178.93671"
+       y="55.292"
+       id="text14123"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">: varchar «PK»</text>
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="243.69223"
+       x2="297.34528"
+       y1="133.98721"
+       y2="133.98721"
+       id="line14125" />
+    <g
+       data-visibility-modifier="IE_MANDATORY"
+       id="g14129"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">
+      <circle
+         cx="93.050003"
+         cy="76.242203"
+         fill="#003153"
+         style="stroke:#d9d3d0;stroke-width:1"
+         id="ellipse14127"
+         r="3" />
+    </g>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="94.513702"
+       x="100.05"
+       y="79.588898"
+       id="text14131"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">title : varchar</text>
+    <g
+       data-visibility-modifier="IE_MANDATORY"
+       id="g14135"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">
+      <circle
+         cx="93.050003"
+         cy="92.539101"
+         fill="#003153"
+         style="stroke:#d9d3d0;stroke-width:1"
+         id="ellipse14133"
+         r="3" />
+    </g>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="79.495102"
+       x="100.05"
+       y="95.885696"
+       id="text14137"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">credits : int</text>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="100.4336"
+       x="100.05"
+       y="112.1826"
+       id="text14139"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">level : varchar</text>
+    <rect
+       fill="#003153"
+       height="37.062328"
+       rx="0.66145831"
+       ry="0.66145831"
+       style="fill:none;stroke:#d9d3d0;stroke-width:0.264583"
+       width="91.252838"
+       x="224.89359"
+       y="164.91336"
+       id="rect14142" />
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="127.1826"
+       x="120.855"
+       y="197.4751"
+       id="text14144"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">COURSE_SECTION</text>
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="225.15817"
+       x2="315.88184"
+       y1="171.87108"
+       y2="171.87108"
+       id="line14146" />
+    <g
+       data-visibility-modifier="IE_MANDATORY"
+       id="g14150"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">
+      <circle
+         cx="23"
+         cy="219.42529"
+         fill="#003153"
+         style="stroke:#d9d3d0;stroke-width:1"
+         id="ellipse14148"
+         r="3" />
+    </g>
+    <text
+       fill="#eecbff"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="74.436501"
+       x="30"
+       y="222.772"
+       id="text14152"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">course_id</text>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="242.00591"
+       x="108.8867"
+       y="222.772"
+       id="text14154"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">: varchar &lt;&lt;PK, FK -&gt; COURSE&gt;&gt;</text>
+    <g
+       data-visibility-modifier="IE_MANDATORY"
+       id="g14158"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">
+      <circle
+         cx="23"
+         cy="235.7222"
+         fill="#003153"
+         style="stroke:#d9d3d0;stroke-width:1"
+         id="ellipse14156"
+         r="3" />
+    </g>
+    <text
+       fill="#eecbff"
+       font-family="Arial"
+       font-size="14px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="83.788101"
+       x="30"
+       y="239.06889"
+       id="text14160"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">section_no</text>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="191.7959"
+       x="118.2383"
+       y="239.06889"
+       id="text14162"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">: varchar «PK (partial key)»</text>
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="225.15817"
+       x2="315.88184"
+       y1="182.6115"
+       y2="182.6115"
+       id="line14164" />
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="132.45309"
+       x="18"
+       y="263.36569"
+       id="text14166"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">semester : varchar</text>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="63.102501"
+       x="18"
+       y="279.6626"
+       id="text14168"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">year : int</text>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="90.972702"
+       x="18"
+       y="295.9595"
+       id="text14170"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">capacity : int</text>
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="129.8828"
+       x="18"
+       y="312.25641"
+       id="text14172"
+       transform="matrix(0.26458333,0,0,0.26458333,221.71858,117.42594)">schedule : varchar</text>
+    <path
+       codeLine="28"
+       d="m 270.52097,151.2635 c 0,4.90273 0,6.22565 0,11.41942"
+       fill="none"
+       id="COURSE-COURSE_SECTION-0"
+       style="stroke:#d9d3d0;stroke-width:0.264583" />
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="269.46265"
+       x2="271.57932"
+       y1="150.20517"
+       y2="150.20517"
+       id="line14176" />
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="269.46265"
+       x2="271.57932"
+       y1="150.99892"
+       y2="150.99892"
+       id="line14178" />
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="270.521"
+       x2="270.521"
+       y1="151.2635"
+       y2="149.14684"
+       id="line14180" />
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="270.521"
+       x2="272.10849"
+       y1="162.68292"
+       y2="164.79959"
+       id="line14182" />
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="270.521"
+       x2="268.93347"
+       y1="162.68292"
+       y2="164.79959"
+       id="line14184" />
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="270.521"
+       x2="270.521"
+       y1="162.68292"
+       y2="164.79959"
+       id="line14186" />
+    <line
+       style="stroke:#d9d3d0;stroke-width:0.264583"
+       x1="271.57932"
+       x2="269.46265"
+       y1="162.15375"
+       y2="162.15375"
+       id="line14188" />
+    <text
+       fill="#d9d3d0"
+       font-family="Arial"
+       font-size="13px"
+       lengthAdjust="spacing"
+       textLength="76.298798"
+       x="107.45"
+       y="145.5369"
+       id="text14190"
+       transform="matrix(0.26458333,0,0,0.26458333,220.13108,119.01344)">has_section</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.13021,183.54527 1e-5,0"
+       id="path16331"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g14765"
+       inkscape:export-filename="/home/zeid/Downloads/drive-download-20260225T190631Z-1-001/ENPM818T_L3/PNG/weak-entity-mapping-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#091f41;fill-opacity:1;stroke-width:4"
+       id="rect2"
+       width="23.765245"
+       height="12.625287"
+       x="177.77504"
+       y="225.53008"
+       rx="2.6458333"
+       ry="2.6458333"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/M-N-course-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:4"
+       id="rect3"
+       width="23.765245"
+       height="12.625287"
+       x="74.721283"
+       y="225.53008"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#fec8d8;fill-opacity:1;stroke-width:4"
+       id="rect4"
+       width="23.765245"
+       height="12.625287"
+       x="100.48473"
+       y="225.53008"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:4"
+       id="rect5"
+       width="23.765245"
+       height="12.625287"
+       x="152.01166"
+       y="225.53008"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#f89880;fill-opacity:1;stroke-width:4"
+       id="rect7"
+       width="23.765245"
+       height="12.625287"
+       x="126.24815"
+       y="225.53008"
+       rx="2.6458333"
+       ry="2.6458333" />
+  </g>
+</svg>

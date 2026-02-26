@@ -1,0 +1,64 @@
+'-------------------------
+' 1-1-option-a
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PROFESSOR {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+  * <color:#336791><b>rank_code</b></color> : varchar <<FK -> ACADEMIC_RANK>>
+}
+
+entity DEPARTMENT {
+  * <color:#9b59b6><b>dept_id</b></color> : int <<PK>>
+  --
+  * dept_name : varchar <<UK>>
+    building : varchar
+    budget : numeric
+  .. chairs (1:1) ..
+  * <color:#336791><b>chair_id</b></color> : int <<FK -> PROFESSOR, UK>>
+  * start_date : date
+}
+
+PROFESSOR |o--|| DEPARTMENT : "chairs"
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity PROFESSOR {
+  * <color:#EECBFF><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * professor_id : varchar <<UK>>
+    salary : numeric
+  * hire_date : date
+  * <color:#E6EDF9><b>rank_code</b></color> : varchar <<FK -> ACADEMIC_RANK>>
+}
+
+entity DEPARTMENT {
+  * <color:#EECBFF><b>dept_id</b></color> : int <<PK>>
+  --
+  * dept_name : varchar <<UK>>
+    building : varchar
+    budget : numeric
+  .. chairs (1:1) ..
+  * <color:#E6EDF9><b>chair_id</b></color> : int <<FK -> PROFESSOR, UK>>
+  * start_date : date
+}
+
+PROFESSOR |o--|| DEPARTMENT : "chairs"
+@enduml

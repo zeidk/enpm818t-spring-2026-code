@@ -1,0 +1,169 @@
+'-------------------------
+' M-N-student
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity STUDENT {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * student_id : varchar <<UK>>
+  * admission_date : date
+    gpa : numeric
+  * academic_standing : varchar
+}
+
+entity COURSE {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * credits : int
+    level : varchar
+}
+
+entity COURSE_SECTION {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK (partial key)>>
+  --
+    semester : varchar
+    year : int
+    capacity : int
+    schedule : varchar
+}
+
+entity ENROLLMENT {
+  * <color:#9b59b6><b>student_person_id</b></color> : int <<PK, FK -> STUDENT>>
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  * <color:#9b59b6><b>section_no</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  --
+    grade : varchar
+  * enroll_date : date
+}
+
+entity STUDENT_DEGREE {
+  * <color:#9b59b6><b>person_id</b></color> : int <<PK, FK -> STUDENT>>
+  * <color:#9b59b6><b>degree_type</b></color> : varchar <<PK>>
+  * <color:#9b59b6><b>institution</b></color> : varchar <<PK>>
+  --
+    year : int
+}
+
+COURSE ||--|{ COURSE_SECTION : "has_section"
+STUDENT ||--|{ ENROLLMENT : "enrolls_in"
+COURSE_SECTION ||--|{ ENROLLMENT : "enrolls_in"
+STUDENT ||--o{ STUDENT_DEGREE : "previous_degrees"
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity STUDENT {
+  * <color:#EECBFF><b>person_id</b></color> : int <<PK, FK -> PERSON>>
+  --
+  * student_id : varchar <<UK>>
+  * admission_date : date
+    gpa : numeric
+  * academic_standing : varchar
+}
+
+entity COURSE {
+  * <color:#EECBFF><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * credits : int
+    level : varchar
+}
+
+entity COURSE_SECTION {
+  * <color:#EECBFF><b>course_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#EECBFF><b>section_no</b></color> : varchar <<PK (partial key)>>
+  --
+    semester : varchar
+    year : int
+    capacity : int
+    schedule : varchar
+}
+
+entity ENROLLMENT {
+  * <color:#EECBFF><b>student_person_id</b></color> : int <<PK, FK -> STUDENT>>
+  * <color:#EECBFF><b>course_id</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  * <color:#EECBFF><b>section_no</b></color> : varchar <<PK, FK -> COURSE_SECTION>>
+  --
+    grade : varchar
+  * enroll_date : date
+}
+
+entity STUDENT_DEGREE {
+  * <color:#EECBFF><b>person_id</b></color> : int <<PK, FK -> STUDENT>>
+  * <color:#EECBFF><b>degree_type</b></color> : varchar <<PK>>
+  * <color:#EECBFF><b>institution</b></color> : varchar <<PK>>
+  --
+    year : int
+}
+
+COURSE ||--|{ COURSE_SECTION : "has_section"
+STUDENT ||--|{ ENROLLMENT : "enrolls_in"
+COURSE_SECTION ||--|{ ENROLLMENT : "enrolls_in"
+STUDENT ||--o{ STUDENT_DEGREE : "previous_degrees"
+@enduml
+
+'-------------------------
+' M-N-course
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+entity COURSE {
+  * <color:#9b59b6><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * level : varchar
+  * credits : int
+}
+entity COURSE_PREREQ {
+  * <color:#9b59b6><b>successor_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#9b59b6><b>prereq_id</b></color> : varchar <<PK, FK -> COURSE>>
+  --
+  {CHECK: successor_id <> prereq_id}
+}
+COURSE ||--o{ COURSE_PREREQ : "successor"
+COURSE ||--o{ COURSE_PREREQ : "prerequisite"
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+entity COURSE {
+  * <color:#EECBFF><b>course_id</b></color> : varchar <<PK>>
+  --
+  * title : varchar
+  * level : varchar
+  * credits : int
+}
+entity COURSE_PREREQ {
+  * <color:#EECBFF><b>successor_id</b></color> : varchar <<PK, FK -> COURSE>>
+  * <color:#EECBFF><b>prereq_id</b></color> : varchar <<PK, FK -> COURSE>>
+  --
+  {CHECK: successor_id <> prereq_id}
+}
+COURSE ||--o{ COURSE_PREREQ : "successor"
+COURSE ||--o{ COURSE_PREREQ : "prerequisite"
+@enduml

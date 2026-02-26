@@ -1,0 +1,112 @@
+'-------------------------
+' 1-1-option-c: FK on EMPLOYEE
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#9b59b6><b>emp_id</b></color> : varchar <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+  .. assigned_to (1:1) ..
+    <color:#336791><b>spot_id</b></color> : varchar <<FK -> PARKING_SPOT, UK>>
+}
+
+entity PARKING_SPOT {
+  * <color:#9b59b6><b>spot_id</b></color> : varchar <<PK>>
+  --
+  * location : varchar
+}
+
+EMPLOYEE |o--o| PARKING_SPOT : "assigned_to"
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#EECBFF><b>emp_id</b></color> : varchar <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+  .. assigned_to (1:1) ..
+    <color:#E6EDF9><b>spot_id</b></color> : varchar <<FK -> PARKING_SPOT, UK>>
+}
+
+entity PARKING_SPOT {
+  * <color:#EECBFF><b>spot_id</b></color> : varchar <<PK>>
+  --
+  * location : varchar
+}
+
+EMPLOYEE |o--o| PARKING_SPOT : "assigned_to"
+@enduml
+'-------------------------
+' 1-1-option-c: FK on PARKING_SPOT
+'-------------------------
+' LIGHT
+'-------------------------
+@startuml
+!theme mono
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#9b59b6><b>emp_id</b></color> : varchar <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+}
+
+entity PARKING_SPOT {
+  * <color:#9b59b6><b>spot_id</b></color> : varchar <<PK>>
+  --
+  * location : varchar
+  .. assigned_to (1:1) ..
+    <color:#336791><b>emp_id</b></color> : varchar <<FK -> EMPLOYEE, UK>>
+}
+
+PARKING_SPOT |o--o| EMPLOYEE : "assigned_to"
+@enduml
+'-------------------------
+' DARK
+'-------------------------
+@startuml
+!theme blueprint
+hide circle
+skinparam linetype ortho
+skinparam defaultFontName Arial
+
+entity EMPLOYEE {
+  * <color:#EECBFF><b>emp_id</b></color> : varchar <<PK>>
+  --
+  * first_name : varchar
+  * last_name : varchar
+  * hire_date : date
+}
+
+entity PARKING_SPOT {
+  * <color:#EECBFF><b>spot_id</b></color> : varchar <<PK>>
+  --
+  * location : varchar
+  .. assigned_to (1:1) ..
+    <color:#E6EDF9><b>emp_id</b></color> : varchar <<FK -> EMPLOYEE, UK>>
+}
+
+PARKING_SPOT |o--o| EMPLOYEE : "assigned_to"
+@enduml
