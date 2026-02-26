@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="domain-constraints.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.7286476"
+     inkscape:cx="380.12983"
+     inkscape:cy="383.30198"
+     inkscape:window-width="3840"
+     inkscape:window-height="1529"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g41"
+       transform="translate(104.22752,-41.214239)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#4a4a4a;stroke-width:0.396875;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect640"
+         width="15.857244"
+         height="4.4961014"
+         x="-18.155533"
+         y="139.19754" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="-16.912481"
+         y="142.455"
+         id="text640"><tspan
+           sodipodi:role="line"
+           id="tspan640"
+           x="-16.912481"
+           y="142.455"
+           style="stroke-width:0.500062">STUDENT</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path40"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 87.847747,93.049229 4.226977,4.934072"
+       inkscape:connection-end="#g41"
+       inkscape:connection-start="#g35" />
+    <g
+       id="g1"
+       transform="translate(-38.775622,-34.523173)"
+       inkscape:export-filename="png\domain-constraints.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g35"
+         transform="translate(105.01116,-53.066812)">
+        <path
+           fill-rule="nonzero"
+           fill="#f5eff8"
+           fill-opacity="1"
+           stroke-width="0.404278"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke="#9b59b6"
+           stroke-opacity="1"
+           stroke-miterlimit="10"
+           d="m 31.559256,174.9751 c 0,-3.30965 -6.625248,-5.99364 -14.798243,-5.99364 -8.1753967,0 -14.800645,2.68399 -14.800645,5.99364 0,3.30971 6.6252483,5.99364 14.800645,5.99364 8.172995,0 14.798243,-2.68393 14.798243,-5.99364 z m 0,0"
+           id="path6"
+           style="fill:#f0f0f0;fill-opacity:1;stroke:#4a4a4a;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a4a4a;fill-opacity:1;stroke-width:0.396875;stroke-linecap:square;stroke-dasharray:none"
+           x="4.0956059"
+           y="175.68823"
+           id="text6"><tspan
+             sodipodi:role="line"
+             id="tspan6"
+             x="4.0956059"
+             y="175.68823"
+             style="stroke-width:0.396875">academic standing</tspan></text>
+      </g>
+      <g
+         id="g43"
+         transform="translate(103.75243,-42.482413)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+           x="35.101971"
+           y="163.79677"
+           id="text42"><tspan
+             sodipodi:role="line"
+             id="tspan42"
+             x="35.101971"
+             y="163.79677">{good, probation,</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+           x="35.118507"
+           y="166.44536"
+           id="text43"><tspan
+             sodipodi:role="line"
+             id="tspan43"
+             x="35.118507"
+             y="166.44536">suspended, dismissed}</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
