@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (1:1.4.3+202512261035+0d15f75042)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="ternary.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.38717705"
-     inkscape:cx="2266.405"
-     inkscape:cy="410.66484"
-     inkscape:window-width="1600"
-     inkscape:window-height="878"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:zoom="1.5487082"
+     inkscape:cx="477.49473"
+     inkscape:cy="760.31108"
+     inkscape:window-width="3840"
+     inkscape:window-height="1529"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -201,5 +201,203 @@
          id="tspan13"
          x="73.785248"
          y="174.25566">(1,N)</tspan></text>
+    <rect
+       style="fill:#091f41;fill-opacity:1;stroke-width:2.21939"
+       id="rect2-0"
+       width="13.18609"
+       height="7.0051103"
+       x="157.68283"
+       y="144.74545"
+       rx="2.6458333"
+       ry="2.6458333"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/M-N-course-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:2.21939"
+       id="rect3-1"
+       width="13.18609"
+       height="7.0051103"
+       x="157.68283"
+       y="121.37923"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#fec8d8;fill-opacity:1;stroke-width:2.21939"
+       id="rect4-6"
+       width="13.18609"
+       height="7.0051103"
+       x="157.68283"
+       y="152.53421"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:2.21939"
+       id="rect5-5"
+       width="13.18609"
+       height="7.0051103"
+       x="157.68283"
+       y="136.9567"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#f89880;fill-opacity:1;stroke-width:2.21939"
+       id="rect7-7"
+       width="13.18609"
+       height="7.0051103"
+       x="157.68283"
+       y="129.168"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#d7f4ee;fill-opacity:1;stroke-width:2.21939"
+       id="rect25-0"
+       width="13.18609"
+       height="7.0051103"
+       x="157.68283"
+       y="160.32297"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="204.96994"
+       y="205.55418"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="204.96994"
+         y="205.55418">PROFESSOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="151.11736"
+       y="205.16248"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="151.11736"
+         y="205.16248">GRAD_STUDENT</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 198.74453,222.03227 14.78175,-13.52903"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="171.16466"
+       y="260.80316"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="171.16466"
+         y="260.80316">COURSE_SECTION</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="46.622536"
+       height="8.6072006"
+       x="167.42529"
+       y="255.37714" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path11"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 183.82412,221.46178 -11.43971,-13.0737"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path12"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 190.73657,240.86745 v 11.46913"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.97028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.880668;stroke-linecap:square;stroke-dasharray:none"
+       x="165.8343"
+       y="218.49947"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="165.8343"
+         y="218.49947">(0,1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.97028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.880668;stroke-linecap:square;stroke-dasharray:none"
+       x="207.11952"
+       y="218.49947"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="207.11952"
+         y="218.49947">(1,1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.97028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.880668;stroke-linecap:square;stroke-dasharray:none"
+       x="194.39922"
+       y="247.88826"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         x="194.39922"
+         y="247.88826">(1,N)</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="30.113453"
+       height="8.9263172"
+       x="203.34598"
+       y="199.57692" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="41.132252"
+       height="8.6960001"
+       x="148.01372"
+       y="199.69208" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11"
+       width="53.819469"
+       height="14.688317"
+       x="163.82683"
+       y="252.33658" />
+    <g
+       id="g17">
+      <path
+         fill-rule="nonzero"
+         fill="#fdeeec"
+         fill-opacity="1"
+         stroke-width="0.535699"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#e74c3c"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 212.79219,229.36158 -22.05414,-11.50666 -22.05695,11.50666 22.05695,11.50665 z m 0,0"
+         id="path8"
+         style="stroke-width:1.5;stroke-dasharray:none;stroke:#f89880;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="178.78795"
+         y="230.48398"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="178.78795"
+           y="230.48398">ASSIGN_TA</tspan></text>
+    </g>
   </g>
 </svg>

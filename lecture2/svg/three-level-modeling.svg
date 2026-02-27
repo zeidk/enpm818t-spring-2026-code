@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="1.6718294"
      inkscape:cx="77.460057"
-     inkscape:cy="585.287"
+     inkscape:cy="680.99054"
      inkscape:window-width="3840"
      inkscape:window-height="1529"
      inkscape:window-x="-8"
@@ -219,5 +219,186 @@
         </g>
       </g>
     </g>
+    <rect
+       style="fill:#091f41;fill-opacity:1;stroke-width:2.21939"
+       id="rect2-0"
+       width="13.18609"
+       height="7.0051103"
+       x="212.57011"
+       y="142.92664"
+       rx="2.6458333"
+       ry="2.6458333"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/M-N-course-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:2.21939"
+       id="rect3-1"
+       width="13.18609"
+       height="7.0051103"
+       x="212.57011"
+       y="119.56041"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#fec8d8;fill-opacity:1;stroke-width:2.21939"
+       id="rect4-6"
+       width="13.18609"
+       height="7.0051103"
+       x="212.57011"
+       y="150.71539"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:2.21939"
+       id="rect5-5"
+       width="13.18609"
+       height="7.0051103"
+       x="212.57011"
+       y="135.13788"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#f89880;fill-opacity:1;stroke-width:2.21939"
+       id="rect7-7"
+       width="13.18609"
+       height="7.0051103"
+       x="212.57011"
+       y="127.34918"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#d7f4ee;fill-opacity:1;stroke-width:2.21939"
+       id="rect25-0"
+       width="13.18609"
+       height="7.0051103"
+       x="212.57011"
+       y="158.50415"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#d7f4ee;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ColoredTriangle)"
+       id="path1"
+       d="m 55.865466,209.48923 v 8.95764"
+       inkscape:export-filename="png\three-level.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#d7f4ee;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ColoredTriangle);paint-order:stroke markers fill"
+       id="path2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 55.865466,231.92512 v 9.47219" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="31.623034"
+       y="205.31952"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="31.623034"
+         y="205.31952">Conceptual Model</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#f0f0f0;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="54.197754"
+       height="11.335259"
+       x="28.766588"
+       y="198.15396" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#eed7f4;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="86.836922"
+       y="202.20088"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="86.836922"
+         y="202.20088">entities, relationships, constraints</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#eed7f4;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="86.692223"
+       y="207.58171"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="86.692223"
+         y="207.58171">business-focused, technology-independent</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="37.027699"
+       y="227.68376"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="37.027699"
+         y="227.68376">Logical Model</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#f0f0f0;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12"
+       width="54.197754"
+       height="11.335259"
+       x="28.766588"
+       y="220.58986" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#eed7f4;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="86.907204"
+       y="224.63676"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="86.907204"
+         y="224.63676">tables, keys, columns, normalization</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#eed7f4;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="86.692223"
+       y="230.01759"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="86.692223"
+         y="230.01759">relation schema, technology-independent</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none;paint-order:stroke markers fill"
+       x="35.465008"
+       y="250.64882"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         x="35.465008"
+         y="250.64882">Physical Model</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#f0f0f0;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect23"
+       width="54.197754"
+       height="11.335259"
+       x="28.766588"
+       y="243.55492" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#eed7f4;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="86.797646"
+       y="247.62973"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="86.797646"
+         y="247.62973">data types, indexes, partition</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#eed7f4;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="86.665352"
+       y="253.01056"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         x="86.665352"
+         y="253.01056">DBMS-specific</tspan></text>
   </g>
 </svg>

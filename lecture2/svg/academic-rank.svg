@@ -257,7 +257,7 @@
        width="23.765245"
        height="12.625287"
        x="46.16201"
-       y="99.301476"
+       y="98.743607"
        rx="2.6458333"
        ry="2.6458333"
        inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/M-N-course-dark.png"
@@ -278,7 +278,7 @@
        width="23.765245"
        height="12.625287"
        x="46.16201"
-       y="113.52507"
+       y="112.78125"
        rx="2.6458333"
        ry="2.6458333" />
     <rect
@@ -287,7 +287,7 @@
        width="23.765245"
        height="12.625287"
        x="46.16201"
-       y="85.077881"
+       y="84.705971"
        rx="2.6458333"
        ry="2.6458333" />
     <rect
@@ -296,7 +296,7 @@
        width="23.765245"
        height="12.625287"
        x="46.16201"
-       y="70.854279"
+       y="70.668327"
        rx="2.6458333"
        ry="2.6458333" />
     <g
@@ -389,7 +389,7 @@
          style="stroke-width:0.378023;stroke-dasharray:none;stroke:#fec8d8;stroke-opacity:1" />
     </g>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#e5ffd5;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
        id="rect14"
        width="27.626572"
        height="4.3761649"
@@ -397,7 +397,7 @@
        y="128.29654" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e5ffd5;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
        x="108.65133"
        y="131.23289"
        id="text14"><tspan
@@ -491,11 +491,11 @@
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <rect
-       style="fill:#e5ffd5;fill-opacity:1;stroke-width:4"
+       style="fill:#d7f4ee;fill-opacity:1;stroke-width:4"
        id="rect25"
        width="23.765245"
        height="12.625287"
-       x="46.795048"
+       x="46.16201"
        y="126.81889"
        rx="2.6458333"
        ry="2.6458333" />

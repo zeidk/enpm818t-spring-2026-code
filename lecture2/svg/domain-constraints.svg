@@ -127,5 +127,138 @@
              y="166.44536">suspended, dismissed}</tspan></text>
       </g>
     </g>
+    <rect
+       style="fill:#091f41;fill-opacity:1;stroke-width:2.21939"
+       id="rect2-0"
+       width="13.18609"
+       height="7.0051103"
+       x="139.78069"
+       y="96.490791"
+       rx="2.6458333"
+       ry="2.6458333"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/M-N-course-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:2.21939"
+       id="rect3-1"
+       width="13.18609"
+       height="7.0051103"
+       x="139.78069"
+       y="73.124565"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#fec8d8;fill-opacity:1;stroke-width:2.21939"
+       id="rect4-6"
+       width="13.18609"
+       height="7.0051103"
+       x="139.78069"
+       y="104.27956"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:2.21939"
+       id="rect5-5"
+       width="13.18609"
+       height="7.0051103"
+       x="139.78069"
+       y="88.702065"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#f89880;fill-opacity:1;stroke-width:2.21939"
+       id="rect7-7"
+       width="13.18609"
+       height="7.0051103"
+       x="139.78069"
+       y="80.913322"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#d7f4ee;fill-opacity:1;stroke-width:2.21939"
+       id="rect25-0"
+       width="13.18609"
+       height="7.0051103"
+       x="139.78069"
+       y="112.06831"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 89.134673,124.83069 4.22698,4.93408"
+       inkscape:connection-start="#g6"
+       inkscape:connection-end="#g7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="101.36571"
+       y="118.57265"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="101.36571"
+         y="118.57265">{good, probation,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="101.38224"
+       y="121.22124"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="101.38224"
+         y="121.22124">suspended, dismissed}</tspan></text>
+    <g
+       id="g7">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="15.857244"
+         height="4.4961014"
+         x="87.358917"
+         y="129.76477" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="88.601967"
+         y="133.02223"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="88.601967"
+           y="133.02223"
+           style="stroke-width:0.500062;fill:#d7f4ee;fill-opacity:1">STUDENT</tspan></text>
+    </g>
+    <g
+       id="g6">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 99.081719,119.16658 c 0,-3.30965 -6.625248,-5.99364 -14.798243,-5.99364 -8.175397,0 -14.800645,2.68399 -14.800645,5.99364 0,3.30971 6.625248,5.99364 14.800645,5.99364 8.172995,0 14.798243,-2.68393 14.798243,-5.99364 z m 0,0"
+         id="path3"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.396875;stroke-linecap:square;stroke-dasharray:none"
+         x="71.618073"
+         y="119.87971"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="71.618073"
+           y="119.87971"
+           style="stroke-width:0.396875;fill:#f0f0f0;fill-opacity:1">academic standing</tspan></text>
+    </g>
   </g>
 </svg>

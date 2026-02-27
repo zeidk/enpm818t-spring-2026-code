@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (1:1.4.3+202512261035+0d15f75042)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="category.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.82135371"
-     inkscape:cx="3877.136"
-     inkscape:cy="-86.442661"
-     inkscape:window-width="1600"
-     inkscape:window-height="878"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:zoom="1.1615696"
+     inkscape:cx="5379.3593"
+     inkscape:cy="-95.990808"
+     inkscape:window-width="3840"
+     inkscape:window-height="1529"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -506,5 +506,507 @@
        inkscape:export-filename="/home/zeidk/Desktop/category2.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#091f41;fill-opacity:1;stroke-width:2.21939"
+       id="rect2-0"
+       width="13.18609"
+       height="7.0051103"
+       x="1153.618"
+       y="-60.373402"
+       rx="2.6458333"
+       ry="2.6458333"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/M-N-course-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:2.21939"
+       id="rect3-1"
+       width="13.18609"
+       height="7.0051103"
+       x="1153.618"
+       y="-83.739632"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#fec8d8;fill-opacity:1;stroke-width:2.21939"
+       id="rect4-6"
+       width="13.18609"
+       height="7.0051103"
+       x="1153.618"
+       y="-52.584637"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:2.21939"
+       id="rect5-5"
+       width="13.18609"
+       height="7.0051103"
+       x="1153.618"
+       y="-68.162132"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#f89880;fill-opacity:1;stroke-width:2.21939"
+       id="rect7-7"
+       width="13.18609"
+       height="7.0051103"
+       x="1153.618"
+       y="-75.950874"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#d7f4ee;fill-opacity:1;stroke-width:2.21939"
+       id="rect25-0"
+       width="13.18609"
+       height="7.0051103"
+       x="1153.618"
+       y="-44.795887"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 1258.0535,-114.48815 9.1875,0"
+       inkscape:connection-end="#g48"
+       inkscape:connection-start="#g49" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1285.2027,-136.72911 -28.803,-16.60833"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:connection-start="#g50"
+       inkscape:connection-end="#g53" />
+    <g
+       id="g48">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1270.7783"
+         y="-113.36575"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           x="1270.7783"
+           y="-113.36575">VEHICLE_OWNER</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17"
+         width="43.978024"
+         height="8.5731134"
+         x="1267.241"
+         y="-118.77471" />
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path31"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 1320.4492,-114.48815 -9.2302,0"
+       inkscape:connection-start="#g47" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path32"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1289.23,-139.05581 10e-5,-14.25627"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:connection-end="#g52"
+       inkscape:connection-start="#g50" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path33"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1293.1558,-136.89681 25.7279,-16.31733"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:connection-end="#g51"
+       inkscape:connection-start="#g50" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path34"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1289.23,-129.75804 0,10.98333"
+       inkscape:export-filename="/home/zeidk/Desktop/category.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:connection-end="#g48"
+       inkscape:connection-start="#g50" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path35"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zeidk/Desktop/category2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 1277.3901,-15.085621 9.097,-12.704455" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path36"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1285.5293,-54.317575 -28.803,-16.60833"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path44"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       d="m 1306.902,-14.91329 -13.0134,-12.876786"
+       inkscape:connection-start="#g60"
+       inkscape:connection-end="#g58" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path45"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1289.5566,-56.644275 v -14.25627"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path46"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1293.4825,-54.485285 25.7278,-16.31732"
+       inkscape:export-filename="/home/zeidk/Desktop/specialization-generalization.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path47"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 1289.5566,-47.34651 v 10.98332"
+       inkscape:export-filename="/home/zeidk/Desktop/category2.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g47">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 1362.901,-114.48815 c 0,-4.31026 -9.5021,-7.80571 -21.2241,-7.80571 -11.7255,0 -21.2277,3.49545 -21.2277,7.80571 0,4.31032 9.5022,7.8057 21.2277,7.8057 11.722,0 21.2241,-3.49538 21.2241,-7.8057 z m 0,0"
+         id="path3"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.085;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.97028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.698943;stroke-linecap:square;stroke-dasharray:none"
+         x="1322.749"
+         y="-113.20068"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="1322.749"
+           y="-113.20068">ownership_date</tspan></text>
+    </g>
+    <g
+       id="g52">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1278.4658"
+         y="-156.3185"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           x="1278.4658"
+           y="-156.3185">COMPANY</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7"
+         width="25.274643"
+         height="9.0431423"
+         x="1276.5928"
+         y="-162.35522" />
+    </g>
+    <g
+       id="g53">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1239.6787"
+         y="-156.31953"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="1239.6787"
+           y="-156.31953">PERSON</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10"
+         width="25.608761"
+         height="8.9924259"
+         x="1235.7977"
+         y="-162.32986" />
+    </g>
+    <g
+       id="g51">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1319.9022"
+         y="-156.3185"
+         id="text13"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           x="1319.9022"
+           y="-156.3185">BANK</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13"
+         width="18.227682"
+         height="9.2390356"
+         x="1317.0536"
+         y="-162.45317" />
+    </g>
+    <g
+       id="g49">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 1258.0535,-114.48815 c 0,-4.33381 -8.0233,-7.84836 -17.9209,-7.84836 -9.9008,0 -17.9241,3.51455 -17.9241,7.84836 0,4.33387 8.0233,7.84835 17.9241,7.84835 9.8976,0 17.9209,-3.51448 17.9209,-7.84835 z m 0,0"
+         id="path21"
+         style="fill:#091f41;fill-opacity:1;stroke:#fec8d8;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         fill="none"
+         stroke-width="0.398"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#7c4792"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 1229.2533,-111.68863 h 21.7554"
+         id="path22"
+         style="stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke:#fec8d8;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.97028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fec8d8;fill-opacity:1;stroke-width:0.698943;stroke-linecap:square;stroke-dasharray:none"
+         x="1229.2804"
+         y="-114.22985"
+         id="text27"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="1229.2804"
+           y="-114.22985">owner_id</tspan></text>
+    </g>
+    <g
+       id="g50">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1287.718"
+         y="-132.9176"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           x="1287.718"
+           y="-132.9176">U</tspan></text>
+      <circle
+         style="fill:none;stroke:#f89880;stroke-width:1.54123;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="circle15"
+         cx="1289.23"
+         cy="-134.40692"
+         r="4.6488857" />
+    </g>
+    <g
+       id="g60">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 1335.5242,-7.594686 c 0,-4.310258 -9.5021,-7.805708 -21.2241,-7.805708 -11.7255,0 -21.2277,3.49545 -21.2277,7.805708 0,4.310317 9.5022,7.805698 21.2277,7.805698 11.722,0 21.2241,-3.495381 21.2241,-7.805698 z m 0,0"
+         id="path37"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:1.0853;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.97028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.698943;stroke-linecap:square;stroke-dasharray:none"
+         x="1295.3722"
+         y="-6.3072243"
+         id="text37"><tspan
+           sodipodi:role="line"
+           id="tspan37"
+           x="1295.3722"
+           y="-6.3072243">ownership_date</tspan></text>
+    </g>
+    <g
+       id="g55">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1278.7922"
+         y="-73.906967"
+         id="text38"><tspan
+           sodipodi:role="line"
+           id="tspan38"
+           x="1278.7922"
+           y="-73.906967">COMPANY</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect38"
+         width="25.274643"
+         height="9.0431423"
+         x="1276.9192"
+         y="-79.943695" />
+    </g>
+    <g
+       id="g57">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1240.0051"
+         y="-73.908005"
+         id="text39"><tspan
+           sodipodi:role="line"
+           id="tspan39"
+           x="1240.0051"
+           y="-73.908005">PERSON</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect39"
+         width="25.608761"
+         height="8.9924259"
+         x="1236.1243"
+         y="-79.918335" />
+    </g>
+    <g
+       id="g56">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1320.2286"
+         y="-73.906967"
+         id="text40"><tspan
+           sodipodi:role="line"
+           id="tspan40"
+           x="1320.2286"
+           y="-73.906967">BANK</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect40"
+         width="18.227682"
+         height="9.2390356"
+         x="1317.38"
+         y="-80.041641" />
+    </g>
+    <g
+       id="g58">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d7f4ee;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1271.1049"
+         y="-30.954224"
+         id="text42"><tspan
+           sodipodi:role="line"
+           id="tspan42"
+           x="1271.1049"
+           y="-30.954224">VEHICLE_OWNER</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d7f4ee;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         id="rect42"
+         width="43.978024"
+         height="8.5731134"
+         x="1267.5675"
+         y="-36.36319" />
+    </g>
+    <g
+       id="g59">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 1289.9488,-7.594686 c 0,-4.33381 -8.0233,-7.84836 -17.9209,-7.84836 -9.9008,0 -17.9241,3.51455 -17.9241,7.84836 0,4.33387 8.0233,7.84835 17.9241,7.84835 9.8976,0 17.9209,-3.51448 17.9209,-7.84835 z m 0,0"
+         id="path42"
+         style="fill:#091f41;fill-opacity:1;stroke:#fec8d8;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         fill="none"
+         stroke-width="0.398"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#7c4792"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 1261.1486,-4.795164 h 21.7554"
+         id="path43"
+         style="stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke:#fec8d8;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.97028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fec8d8;fill-opacity:1;stroke-width:0.698943;stroke-linecap:square;stroke-dasharray:none"
+         x="1261.1757"
+         y="-7.3363905"
+         id="text43"><tspan
+           sodipodi:role="line"
+           id="tspan43"
+           x="1261.1757"
+           y="-7.3363905">owner_id</tspan></text>
+    </g>
+    <g
+       id="g54">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="1288.0444"
+         y="-50.506081"
+         id="text41"><tspan
+           sodipodi:role="line"
+           id="tspan41"
+           x="1288.0444"
+           y="-50.506081">U</tspan></text>
+      <circle
+         style="fill:none;stroke:#f89880;stroke-width:1.54123;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="circle41"
+         cx="1289.5565"
+         cy="-51.995399"
+         r="4.6488857" />
+    </g>
   </g>
 </svg>
