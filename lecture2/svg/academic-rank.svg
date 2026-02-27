@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4.7286476"
-     inkscape:cx="371.2478"
-     inkscape:cy="275.87169"
+     inkscape:zoom="3.3436588"
+     inkscape:cx="237.91303"
+     inkscape:cy="356.64524"
      inkscape:window-width="3840"
      inkscape:window-height="1529"
      inkscape:window-x="-8"
@@ -251,5 +251,253 @@
        inkscape:export-filename="academic-rank.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#091f41;fill-opacity:1;stroke-width:4"
+       id="rect2"
+       width="23.765245"
+       height="12.625287"
+       x="46.16201"
+       y="99.301476"
+       rx="2.6458333"
+       ry="2.6458333"
+       inkscape:export-filename="../enpm818t-spring-2026-docs/docs/source/_static/images/l3/M-N-course-dark.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke-width:4"
+       id="rect3"
+       width="23.765245"
+       height="12.625287"
+       x="46.16201"
+       y="56.630684"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#fec8d8;fill-opacity:1;stroke-width:4"
+       id="rect4"
+       width="23.765245"
+       height="12.625287"
+       x="46.16201"
+       y="113.52507"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:4"
+       id="rect5"
+       width="23.765245"
+       height="12.625287"
+       x="46.16201"
+       y="85.077881"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <rect
+       style="fill:#f89880;fill-opacity:1;stroke-width:4"
+       id="rect7"
+       width="23.765245"
+       height="12.625287"
+       x="46.16201"
+       y="70.854279"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <g
+       id="g22">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 143.03744,122.77267 c 0,-1.34938 -2.62136,-2.44367 -5.8551,-2.44367 -3.23474,0 -5.85607,1.09429 -5.85607,2.44367 0,1.3494 2.62133,2.44366 5.85607,2.44366 3.23374,0 5.8551,-1.09426 5.8551,-2.44366 z m 0,0"
+         id="path1"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="134.70415"
+         y="123.76624"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           x="134.70415"
+           y="123.76624">title</tspan></text>
+    </g>
+    <g
+       id="g21">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 158.06782,130.48462 c 0,-2.12094 -4.12024,-3.84094 -9.20301,-3.84094 -5.08434,0 -9.20453,1.72 -9.20453,3.84094 0,2.12098 4.12019,3.84094 9.20453,3.84094 5.08277,0 9.20301,-1.71996 9.20301,-3.84094 z m 0,0"
+         id="path11"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="141.86359"
+         y="131.19775"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           x="141.86359"
+           y="131.19775">min_years</tspan></text>
+    </g>
+    <g
+       id="g25">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.679767"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 102.56703,130.48462 c 0,-2.24732 -3.854295,-4.06977 -8.609006,-4.06977 -4.756156,0 -8.610452,1.82245 -8.610452,4.06977 0,2.24733 3.854296,4.06977 8.610452,4.06977 4.754711,0 8.609006,-1.82244 8.609006,-4.06977 z m 0,0"
+         id="path12"
+         style="stroke-width:0.5;stroke-dasharray:none;stroke:#fec8d8;stroke-opacity:1;fill:#091f41;fill-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fec8d8;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="86.857628"
+         y="130.67216"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           x="86.857628"
+           y="130.67216">rank_code</tspan></text>
+      <path
+         fill="none"
+         stroke-width="0.398"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#7c4792"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="M 87.455164,132.12827 H 100.45944"
+         id="path13"
+         style="stroke-width:0.378023;stroke-dasharray:none;stroke:#fec8d8;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e5ffd5;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14"
+       width="27.626572"
+       height="4.3761649"
+       x="107.30037"
+       y="128.29654" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e5ffd5;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+       x="108.65133"
+       y="131.23289"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="108.65133"
+         y="131.23289">ACADEMIC_RANK</tspan></text>
+    <g
+       id="g23">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 130.31742,118.01017 c 0,-2.12094 -4.12024,-3.84094 -9.20301,-3.84094 -5.08434,0 -9.20453,1.72 -9.20453,3.84094 0,2.12098 4.12019,3.84093 9.20453,3.84093 5.08277,0 9.20301,-1.71995 9.20301,-3.84093 z m 0,0"
+         id="path15"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="113.54544"
+         y="118.74191"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           x="113.54544"
+           y="118.74191">description</tspan></text>
+    </g>
+    <g
+       id="g24">
+      <path
+         fill-rule="nonzero"
+         fill="#f5eff8"
+         fill-opacity="1"
+         stroke-width="0.404278"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke="#9b59b6"
+         stroke-opacity="1"
+         stroke-miterlimit="10"
+         d="m 110.43009,120.12684 c 0,-2.54147 -4.93718,-4.6025 -11.027729,-4.6025 -6.092432,0 -11.029548,2.06103 -11.029548,4.6025 0,2.54151 4.937116,4.60249 11.029548,4.60249 6.090549,0 11.027729,-2.06098 11.027729,-4.60249 z m 0,0"
+         id="path16"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:#f0f0f0;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke-width:0.500062;stroke-linecap:square;stroke-dasharray:none"
+         x="89.997002"
+         y="120.87511"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           x="89.997002"
+           y="120.87511">effective_date</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path17"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 102.56703,130.48462 h 4.73334" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path18"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 106.66302,123.59096 9.86393,4.70558" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path19"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 121.11365,121.85111 v 6.44543" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path20"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 139.66028,130.48462 h -4.73334" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#f0f0f0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path21"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       d="m 133.33969,124.61672 -7.66707,3.67982"
+       inkscape:export-filename="academic-rank.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:#e5ffd5;fill-opacity:1;stroke-width:4"
+       id="rect25"
+       width="23.765245"
+       height="12.625287"
+       x="46.795048"
+       y="126.81889"
+       rx="2.6458333"
+       ry="2.6458333" />
   </g>
 </svg>
